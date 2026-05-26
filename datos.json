@@ -193,5 +193,18 @@
     "estante": "Mueble Ventana Encimera",
     "fechaCompra": "",
     "notas": ""
+  },
+  {
+    "id": "mpmj4he93fca5b2mxgr",
+    "titulo": "LA BIBLIA",
+    "autor": "Ilmo. Don Félix Torres Amat",
+    "editorial": "Ramón Daumal",
+    "anio": "1983",
+    "tema": "Religión",
+    "nacionalidad": "",
+    "ubicacion": "Comedor",
+    "estante": "Mueble Ventana Encimera",
+    "fechaCompra": "",
+    "notas": ""
   }
 ]
