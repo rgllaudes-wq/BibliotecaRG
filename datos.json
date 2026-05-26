@@ -115,5 +115,18 @@
     "estante": "Encima",
     "fechaCompra": "",
     "notas": ""
+  },
+  {
+    "id": "mpmfb22nspvh5lg05zh",
+    "titulo": "REINA ROJA",
+    "autor": "Juan Gómez-Jurado",
+    "editorial": "B",
+    "anio": "",
+    "tema": "Misterio",
+    "nacionalidad": "",
+    "ubicacion": "Mueble televisor",
+    "estante": "Estante superior",
+    "fechaCompra": "",
+    "notas": ""
   }
 ]
